@@ -12,3 +12,4 @@ select(cnxn,cur)
 cnxn.close()
 
 
+
